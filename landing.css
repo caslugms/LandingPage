@@ -1,0 +1,235 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333333;
+}
+
+header {
+    background: #0367A6;
+    color: #fff;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+    margin: 10px 0;
+}
+
+#secao1 {
+    padding: 20px;
+    background-color: #f5f5f5;
+}
+
+#secao1 .title1 {
+    text-align: center;
+    font-size: 24px;
+    color: #005f73;
+    margin-bottom: 20px;
+}
+
+#secao1 p {
+    text-align: justify;
+    margin-bottom: 15px;
+    font-size: 16px;
+    color: #333;
+}
+
+.imagens-agua {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.imagens-agua img {
+    display: inline-block;
+    width: 200px;
+    height: 150px; 
+    object-fit: cover;
+    margin: 10px;
+}
+
+#secao2 {
+    padding: 20px;
+    background-color: #e0f7fa;
+    margin-bottom: 2rem;
+}
+
+#secao2 .title2 {
+    text-align: center;
+    font-size: 22px;
+    color: #006064;
+    margin-bottom: 20px;
+}
+
+#secao2 p {
+    text-align: justify;
+    margin-bottom: 15px;
+    font-size: 16px;
+    color: #333;
+}
+
+.imagens-problemas {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.imagens-problemas img {
+    display: inline-block;
+    width: 200px;
+    height: 150px;
+    object-fit: cover;
+    margin: 10px;
+}
+
+#secao3 {
+    padding: 20px;
+    background-color: #f5f5f5; 
+    margin-bottom: 2rem;
+}
+
+#secao3 .title3 {
+    text-align: center;
+    font-size: 22px;
+    color: #005f73;
+    margin-bottom: 20px;
+}
+
+#secao3 p {
+    text-align: justify;
+    margin-bottom: 15px;
+    font-size: 16px;
+    color: #333;
+}
+
+.imagens-problemas2 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.imagens-problemas2 img {
+    display: inline-block;
+    width: 200px;
+    height: 150px;
+    object-fit: cover;
+    margin: 10px;
+}
+
+#secao4 {
+    padding: 20px;
+    background-color: #f5f5f5;
+    margin-bottom: 2rem;
+}
+
+#secao4 .title4 {
+    text-align: center;
+    font-size: 22px;
+    color: #005f73;
+    margin-bottom: 20px;
+}
+
+#secao4 p {
+    text-align: justify;
+    margin-bottom: 15px;
+    font-size: 16px;
+    color: #333;
+}
+
+.imagens-preservacao {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.imagens-preservacao img {
+    display: inline-block;
+    width: 200px;
+    height: 150px;
+    object-fit: cover;
+    margin: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #333;
+    color: white;
+    position: relative;
+}
+
+/* Color Theme Swatches in Hex */
+.water-background-1-hex {
+    color: #0487D9;
+}
+
+.water-background-2-hex {
+    color: #0367A6;
+}
+
+.water-background-3-hex {
+    color: #0378A6;
+}
+
+.water-background-4-hex {
+    color: #049DBF;
+}
+
+.water-background-5-hex {
+    color: #80DDF2;
+}
+
+/* Color Theme Swatches in RGBA */
+.water-background-1-rgba {
+    color: rgba(4, 135, 216, 1);
+}
+
+.water-background-2-rgba {
+    color: rgba(3, 103, 165, 1);
+}
+
+.water-background-3-rgba {
+    color: rgba(3, 119, 165, 1);
+}
+
+.water-background-4-rgba {
+    color: rgba(3, 156, 191, 1);
+}
+
+.water-background-5-rgba {
+    color: rgba(128, 221, 242, 1);
+}
+
+/* Color Theme Swatches in HSLA */
+.water-background-1-hsla {
+    color: hsla(202, 96, 43, 1);
+}
+
+.water-background-2-hsla {
+    color: hsla(202, 96, 33, 1);
+}
+
+.water-background-3-hsla {
+    color: hsla(196, 96, 33, 1);
+}
+
+.water-background-4-hsla {
+    color: hsla(191, 96, 38, 1);
+}
+
+.water-background-5-hsla {
+    color: hsla(191, 81, 72, 1);
+}
