@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background: #0367A6;
+    background: #005187;
     color: #fff;
     padding: 10px 0;
 }
@@ -34,13 +34,13 @@ section {
 
 #secao1 {
     padding: 20px;
-    background-color: #f5f5f5;
+    background-color: #fcffff;
 }
 
 #secao1 .title1 {
     text-align: center;
     font-size: 24px;
-    color: #005f73;
+    color: #005187;
     margin-bottom: 20px;
 }
 
@@ -66,14 +66,14 @@ section {
 
 #secao2 {
     padding: 20px;
-    background-color: #e0f7fa;
+    background-color: #c4dafa;
     margin-bottom: 2rem;
 }
 
 #secao2 .title2 {
     text-align: center;
     font-size: 22px;
-    color: #006064;
+    color: #005187;
     margin-bottom: 20px;
 }
 
@@ -99,14 +99,14 @@ section {
 
 #secao3 {
     padding: 20px;
-    background-color: #f5f5f5; 
+    background-color: #fcffff; 
     margin-bottom: 2rem;
 }
 
 #secao3 .title3 {
     text-align: center;
     font-size: 22px;
-    color: #005f73;
+    color: #005187;
     margin-bottom: 20px;
 }
 
@@ -132,14 +132,14 @@ section {
 
 #secao4 {
     padding: 20px;
-    background-color: #f5f5f5;
+    background-color: #c4dafa;
     margin-bottom: 2rem;
 }
 
 #secao4 .title4 {
     text-align: center;
     font-size: 22px;
-    color: #005f73;
+    color: #005187;
     margin-bottom: 20px;
 }
 
@@ -163,73 +163,40 @@ section {
     margin: 10px;
 }
 
+#secao5 {
+    padding: 20px;
+    background-color: #fcffff;
+    margin-bottom: 2rem;
+    text-align: center; 
+}
+
+#secao5 .title5 {
+    font-size: 22px;
+    color: #005187; 
+    margin-bottom: 20px;
+}
+
+#secao5 p {
+    text-align: center;
+    margin-bottom: 15px;
+    font-size: 16px;
+    color: #333;
+}
+
 footer {
     text-align: center;
     padding: 10px 0;
-    background: #333;
+    background: #005187;
     color: white;
     position: relative;
 }
 
-/* Color Theme Swatches in Hex */
-.water-background-1-hex {
-    color: #0487D9;
+.footer-icones a,
+.footer-icones a:visited {
+    color: white;
+    text-decoration: none;
 }
 
-.water-background-2-hex {
-    color: #0367A6;
-}
-
-.water-background-3-hex {
-    color: #0378A6;
-}
-
-.water-background-4-hex {
-    color: #049DBF;
-}
-
-.water-background-5-hex {
-    color: #80DDF2;
-}
-
-/* Color Theme Swatches in RGBA */
-.water-background-1-rgba {
-    color: rgba(4, 135, 216, 1);
-}
-
-.water-background-2-rgba {
-    color: rgba(3, 103, 165, 1);
-}
-
-.water-background-3-rgba {
-    color: rgba(3, 119, 165, 1);
-}
-
-.water-background-4-rgba {
-    color: rgba(3, 156, 191, 1);
-}
-
-.water-background-5-rgba {
-    color: rgba(128, 221, 242, 1);
-}
-
-/* Color Theme Swatches in HSLA */
-.water-background-1-hsla {
-    color: hsla(202, 96, 43, 1);
-}
-
-.water-background-2-hsla {
-    color: hsla(202, 96, 33, 1);
-}
-
-.water-background-3-hsla {
-    color: hsla(196, 96, 33, 1);
-}
-
-.water-background-4-hsla {
-    color: hsla(191, 96, 38, 1);
-}
-
-.water-background-5-hsla {
-    color: hsla(191, 81, 72, 1);
+.footer-icones a:hover {
+    color: #c4dafa;
 }
